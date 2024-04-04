@@ -9,7 +9,7 @@
   "keywords": [],
   "author" " ",
   "license": " ",
-  "dependencies": [{
+  "dependencies": {
   "hirunews-scrap": "1.0.6"
   }
 }
