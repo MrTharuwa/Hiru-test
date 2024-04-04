@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author" "tharuwa",
-  "license": "ISC",
-  "dependencies": {
+  "author" " ",
+  "license": " ",
+  "dependencies": [
   "hirunews-scrap": "1.0.6"
   }
 }
